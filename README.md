@@ -51,7 +51,9 @@ archivo:  archivo2.txt
           7
           
 Salida:   10
-          
+
+5.- Realizar Ejercicio #4 de la unidad 2 - contenedores.
+
 
 ## Entrega
 De acuerdo a lo mencionado en sesión 2, la tarea debe ser entregado 
