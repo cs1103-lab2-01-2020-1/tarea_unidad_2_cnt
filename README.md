@@ -8,6 +8,24 @@ sentencia del código.
 
 2.- Ordenar un array de acuerdo con otro array.
 
+#### Ejemplo:
+
+Dado dos arrays: arr1 y arr2 con los siguientes elementos,
+
+arr1 = {2, 1, 2, 5, 7, 1, 9, 3, 6, 8, 8}
+
+arr2 = {2, 1, 8, 3}
+
+*   El orden es definido por el array arr2. Entonces, en el arr2
+2 está antes de 1, entonces todos los 2 en arr1 deben estar antes de 
+todos los 1s. De forma similar con 8 y 3.
+
+*   5 no esta en el arr2, entonces para otros elementos que no estan en arr2
+el orden es el orden normal creciente, de menor a mayor.
+
+
+Salida: 2, 2, 1, 8, 8, 3, 5, 6, 7, 9
+
 3.- Dado dos arrays; arr1 y arr2 de tamaño N. La tarea es hacer pares
 que contengan valores correspondientes: (arr1[0], arr2[0]), (arr1[1], arr2[1]), ...
 
